@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 
-Welcome to [Creative Craft](/), where artistry meets passion, and every creation is a reflection of the soul behind the stitches and resin. I am [Your Name], the creative force weaving dreams into reality from the heart of Ratlam, Madhya Pradesh, India.
+Welcome to [Creative Craft](/), where artistry meets passion, and every creation is a reflection of the soul behind the stitches and resin. I am Amatullah Banswara, the creative force weaving dreams into reality from the heart of Ratlam, Madhya Pradesh, India.
 
 For seven enriching years, my hands have embraced the delicate art of crochet, intertwining threads to form exquisite purses that tell stories with every stitch. The enchanting world of resin has also become my canvas, transforming ordinary items into extraordinary pieces, be it coasters, photo frames, or even wearable resin-coated T-shirts.
 
